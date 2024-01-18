@@ -1,0 +1,11 @@
+- **Python 2 vs. Python 3:**
+  - Python, created by Guido, is constantly evolving, and updates are made to improve the language.
+  - Python was created in 1991, named after Monty Python, a British comedy group.
+  - In 2008, Python 3 was introduced as a new version with breaking changes, making it incompatible with Python 2.
+  - Updating to Python 3 required adapting existing code due to changes in syntax and features.
+  - Python 2 is considered legacy and stopped receiving security updates in 2020.
+  - The Python community encourages the adoption of Python 3 for its ongoing support and security.
+  - The course primarily focuses on Python 3, with occasional references to Python 2 topics.
+  - Python 3 is recommended for its community support, security, and up-to-date features.
+  - Historical context is essential when searching for answers, as some online resources may still reference Python 2.
+  - The default version used in the course is Python 3.6, reflecting the community's preference for Python 3.
